@@ -11,3 +11,7 @@ I’m very flexible, and I can work under circumstances. I enjoy solving problem
 ## Skills
 HTML5, CSS3, Sass/Less/Scss, Bootstrap, Responsive and cross-browser coding, BEM
 ECMAScript 5-7, Node.js, Express.js, WebPack
+
+## Experience
+* [Yoga-studio website](https://katerinatsyganok.github.io/Yogastudio-website/)
+* [SPA/Insurance calculator](https://github.com/KaterinaTsyganok/Insurance-calculator)
