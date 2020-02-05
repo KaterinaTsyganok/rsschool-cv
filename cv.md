@@ -15,3 +15,11 @@ ECMAScript 5-7, Node.js, Express.js, WebPack
 ## Experience
 * [Yoga-studio website](https://katerinatsyganok.github.io/Yogastudio-website/)
 * [SPA/Insurance calculator](https://github.com/KaterinaTsyganok/Insurance-calculator)
+
+## Education
+* IT-Academy, Education Center for Programming end High Tech (Web Application Development With JavaScript), 2020
+* IT-Academy, Education Center for Programming end High Tech (Website Development With HTML, CSS & JavaScript), 2019
+* Belarussian State Economic University (Faculty: finance and banking), 2005-2010
+
+## English
+Pre-Intermediate: able to speak, read technical literature; carry on business correspondence, understand content of audio and video materials according to the level.
