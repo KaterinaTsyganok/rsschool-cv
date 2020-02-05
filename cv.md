@@ -4,3 +4,10 @@
 **Telephone number:** +375(44)767-73-00
 **E-mail:** ek.tsyganok@gmail.com
 **GitHub:** [myGitHub](https://github.com/Nastja2000)
+
+## Summary
+I’m very flexible, and I can work under circumstances. I enjoy solving problems. Moreover, it helps me to learn something new and discover new ways to look at problems.
+
+## Skills
+HTML5, CSS3, Sass/Less/Scss, Bootstrap, Responsive and cross-browser coding, BEM
+ECMAScript 5-7, Node.js, Express.js, WebPack
