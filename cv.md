@@ -3,7 +3,7 @@
 ## Contact Info
 **Telephone number:** +375(44)767-73-00  
 **E-mail:** ek.tsyganok@gmail.com  
-**GitHub:** [myGitHub](https://github.com/Nastja2000)  
+**GitHub:** [myGitHub](https://github.com/KaterinaTsyganok)  
 
 ## Summary
 I’m very flexible, and I can work under circumstances. I enjoy solving problems. Moreover, it helps me to learn something new and discover new ways to look at problems.

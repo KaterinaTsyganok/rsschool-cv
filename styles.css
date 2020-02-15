@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(191, 191, 255);
+}
+
+.container {
+    width: 1000px;
+    background-color: white;
+}
+
+.grid-container {
+    display: grid;
+}
